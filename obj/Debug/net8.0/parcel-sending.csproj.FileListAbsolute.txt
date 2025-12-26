@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\parcel-sending\parcel-sending\bin\Debug\net8.0\parcel-sending.exe
+C:\Users\User\Desktop\parcel-sending\parcel-sending\bin\Debug\net8.0\parcel-sending.deps.json
+C:\Users\User\Desktop\parcel-sending\parcel-sending\bin\Debug\net8.0\parcel-sending.runtimeconfig.json
+C:\Users\User\Desktop\parcel-sending\parcel-sending\bin\Debug\net8.0\parcel-sending.dll
+C:\Users\User\Desktop\parcel-sending\parcel-sending\bin\Debug\net8.0\parcel-sending.pdb
+C:\Users\User\Desktop\parcel-sending\parcel-sending\obj\Debug\net8.0\parcel-sending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\parcel-sending\parcel-sending\obj\Debug\net8.0\parcel-sending.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\parcel-sending\parcel-sending\obj\Debug\net8.0\parcel-sending.AssemblyInfo.cs
+C:\Users\User\Desktop\parcel-sending\parcel-sending\obj\Debug\net8.0\parcel-sending.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\parcel-sending\parcel-sending\obj\Debug\net8.0\parcel-sending.dll
+C:\Users\User\Desktop\parcel-sending\parcel-sending\obj\Debug\net8.0\refint\parcel-sending.dll
+C:\Users\User\Desktop\parcel-sending\parcel-sending\obj\Debug\net8.0\parcel-sending.pdb
+C:\Users\User\Desktop\parcel-sending\parcel-sending\obj\Debug\net8.0\parcel-sending.genruntimeconfig.cache
+C:\Users\User\Desktop\parcel-sending\parcel-sending\obj\Debug\net8.0\ref\parcel-sending.dll
